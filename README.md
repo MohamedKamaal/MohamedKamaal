@@ -16,13 +16,12 @@ I'm a passionate **Back-End Developer** with a strong focus on building **RESTfu
 
 📚 **Featured Projects**
 - 📝 [Blogging Platform API](https://github.com/MohamedKamaal/blogging-platform-api) – Articles, claps, comments, bookmarks, and followers.
-- 🛒 E-commerce API – Shopping cart, payments, and inventory management.
-- 💊 Pharmacy Management System – Inventory tracking, prescriptions, and reports.
+- 🛒 [E-commerce API](https://github.com/MohamedKamaal/blogging-platform-api) – Shopping cart, payments, and inventory management.
+- 💊 [Pharmacy Management System](https://github.com/MohamedKamaal/pharmacy-management-api) – Inventory tracking, prescriptions, and reports.
 
 📫 **Let’s Connect**
-- [LinkedIn](https://www.linkedin.com/in/YOUR_LINK)
-- [Twitter](https://twitter.com/YOUR_HANDLE)
-- [Portfolio Website](https://your-portfolio-link.com)
+- [LinkedIn](https://www.linkedin.com/in/mohamedkamal-back-en)
+- [Portfolio Website](https://mohamedkamalportfolio.netlify.app/)
 
 ---
 
