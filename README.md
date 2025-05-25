@@ -21,7 +21,7 @@ I'm a passionate **Back-End Developer** with a strong focus on building **RESTfu
 - Experience using **Tailwindcss** for UI layouts
 
 📚 **Featured Projects**
-- 📝 [Blogging Platform API](https://github.com/MohamedKamaal/blogging-platform-api) – Articles, claps, comments, bookmarks, and followers.
+- 📝 [Blogging Platform API](https://github.com/MohamedKamaal/BlogRestAPI) – Articles, claps, comments, bookmarks, and followers.
 - 🛒 [E-commerce API](https://github.com/MohamedKamaal/e-commerce-api) – Shopping cart, payments, and inventory management.
 - 💊 [Pharmacy Management System](https://github.com/MohamedKamaal/pharmacy-management-api) – Inventory tracking, prescriptions, and reports.
 
